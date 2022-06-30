@@ -2,7 +2,6 @@
 // service_vfdyiok
 // public key: Zc8ZVIWqhbvrBbJw-
 
-// now because this is async, we have to wait for the server
 let isModalOpen = false
 let contrastToggle = false
 const scaleFactor = 1 / 20
